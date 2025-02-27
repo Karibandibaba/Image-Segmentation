@@ -1,0 +1,8 @@
+streamlit>=1.25.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy==1.24.4
+matplotlib
+Pillow
+opencv-python
+importlib-metadata  # Required for some Python versions
