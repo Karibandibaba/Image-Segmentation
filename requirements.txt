@@ -8,4 +8,4 @@ opencv-python
 importlib-metadata  # Required for some Python versions
 opencv-python-headless
 dill
-
+asyncio
